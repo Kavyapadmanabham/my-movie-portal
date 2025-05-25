@@ -6,11 +6,10 @@ A modern, responsive movie watchlist website built with **React + Vite**, styled
 ## 🌟 Features
 
 - 🔥 **Trending Movies:** View the most popular and trending movies fetched from the TMDB API.
-- 📚 **Personal Watchlist:** Add movies you want to watch and maintain your own private watchlist.
+- 📚 **Personal Watchlist:** Add movies you want to watch and maintain your own watchlist.
 - 🔍 **Search Functionality:**
   - Search movies from the TMDB database.
   - Search within your own watchlist.
-- 📈 **Sort by Ratings:** Organize your watchlist based on ratings — ascending or descending.
 - 🎭 **Genre Classification:** Easily find movies by category (e.g., Action, Comedy, Drama).
 - 🖼️ **Movie Cards UI:**
   - Each movie is displayed as a card with a **poster** and **title**.
